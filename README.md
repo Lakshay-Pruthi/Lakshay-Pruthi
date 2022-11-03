@@ -1,4 +1,4 @@
-<img src ="https://pbs.twimg.com/profile_banners/1430836131696762880/1641320194/1500x500" width="2000" height ="350" align="center">
+<img src ="https://raw.githubusercontent.com/Lakshay-Pruthi/Lakshay-Pruthi/main/Banner.jpeg" width="2000" height ="250" align="center">
 
 <h1 align="center">Hi 👋, I'm <a href="https://lakshay-pruthi.netlify.app/"> Lakshay Pruthi</a></h1>
 <h2 align="center">A passionate Frontend developer from Milky Way Galaxy</h2>
