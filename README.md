@@ -1,11 +1,10 @@
+<!--<img src ="https://thumbs.dreamstime.com/b/banner-software-ui-development-different-devices-business-app-dashboard-graph-charts-analytics-data-testing-platform-218245324.jpg" width="800" height ="300" align="center">-->
 <h1 align="center">Hi 👋, I'm Lakshay Pruthi</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=lakshay-pruthi&label=Profile%20views&color=00ff33&style=flat" alt="lakshay-pruthi" /> </p>
+<img src="https://camo.githubusercontent.com/8bf6f6d78abc81fcf9c49f10649423e73ea44bc248e83aaae8759d401c829a84/68747470733a2f2f70687973696373677572756b756c2e66696c65732e776f726470726573732e636f6d2f323031392f30322f6368617261637465722d312e676966" width ="600" height ="450" align="right"> 
 
-<p align="left"> <a href="https://twitter.com/lakshay____" target="blank"><img src="https://img.shields.io/twitter/follow/lakshay____?logo=twitter&style=for-the-badge" alt="lakshay____" /></a> </p>
-
-- 🔭 I’m currently working on **The Shoe Store (An e-commerce website)**
+- 🔭 I’m currently working on **The Shoe Store<br> (An e-commerce website)**
 
 - 🌱 I’m currently learning **JavaScript**
 
