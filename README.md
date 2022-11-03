@@ -1,4 +1,4 @@
-<!--<img src ="https://thumbs.dreamstime.com/b/banner-software-ui-development-different-devices-business-app-dashboard-graph-charts-analytics-data-testing-platform-218245324.jpg" width="800" height ="300" align="center">-->
+<img src ="https://pbs.twimg.com/profile_banners/1430836131696762880/1641320194/1500x500" width="2000" height ="350" align="center">
 <h1 align="center">Hi 👋, I'm Lakshay Pruthi</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
