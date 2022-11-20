@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **JavaScript**
 
-- 👨‍💻 All of my projects are available at <br>[https://lakshay-pruthi.github.io/Portfolio-Website/]
+- 👨‍💻 All of my projects are available at <br>https://lakshay-pruthi.github.io/Portfolio-Website/
 
 - 💬 Ask me about **Web Development, Frontend**
 
