@@ -1,5 +1,3 @@
-<img src ="https://raw.githubusercontent.com/Lakshay-Pruthi/Lakshay-Pruthi/main/Githubbackground.png" width="2500" height ="250" align="center">
-
 <h1 align="center">Hi 👋, I'm Lakshay Pruthi</h1>
 <h2 align="center">A Passionate developer from Milky Way Galaxy</h2>
 
